@@ -17,7 +17,7 @@
 - CSS
 - Javascript
 
-<h3>CSS</h3>
+<h3>Rationale</h3>
 This project was designed to demonstrate how modern web technologies can create visually appealing and interactive user interfaces. It leverages glassmorphism principles and scroll-based interactivity to engage users with a sleek, minimalistic design.
 
 <h2>Known limitations</h2>
